@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6443
+            "stars": 6451
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 1937
+            "stars": 1944
           }
         }
       ],
@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:27:37Z",
+            "last_commit": "2026-08-17T10:37:06Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231256
+            "stars": 231764
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:27:37Z",
+            "last_commit": "2026-08-17T10:37:06Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231256
+            "stars": 231764
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5041
+            "stars": 5052
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-04-04T05:44:23Z",
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1810
+            "stars": 1812
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-03-20T16:17:11Z",
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -145,10 +145,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T06:44:26Z",
+            "last_commit": "2026-08-17T03:06:31Z",
             "owner": "rlaope",
             "repo": "oh-my-hermes",
-            "stars": 987
+            "stars": 996
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-09T13:33:19Z",
             "owner": "sergebulaev",
             "repo": "linkedin-skills",
-            "stars": 557
+            "stars": 561
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-03-18T13:13:38Z",
             "owner": "Romanescu11",
             "repo": "hermes-skill-factory",
-            "stars": 520
+            "stars": 522
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-07-18T05:50:32Z",
             "owner": "42-evey",
             "repo": "hermes-plugins",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-07-27T17:15:52Z",
             "owner": "Cranot",
             "repo": "super-hermes",
-            "stars": 373
+            "stars": 375
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-08-05T12:34:16Z",
             "owner": "witt3rd",
             "repo": "oh-my-hermes",
-            "stars": 258
+            "stars": 261
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-04-10T02:24:09Z",
             "owner": "tlehman",
             "repo": "litprog-skill",
-            "stars": 247
+            "stars": 249
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-14T20:45:42Z",
             "owner": "ilyautov",
             "repo": "humanizer-ru",
-            "stars": 216
+            "stars": 220
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-07-28T19:39:10Z",
             "owner": "Lethe044",
             "repo": "hermes-life-os",
-            "stars": 171
+            "stars": 172
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-06-06T05:14:57Z",
             "owner": "Yonkoo11",
             "repo": "hermes-dojo",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2026-04-05T03:17:32Z",
             "owner": "Hmbown",
             "repo": "Wizards-of-the-Ghosts",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-05-15T15:16:16Z",
             "owner": "beiyuii",
             "repo": "personal-api-skill",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-04T22:42:47Z",
             "owner": "Lethe044",
             "repo": "hermes-incident-commander",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -489,6 +489,20 @@
         },
         {
           "node_type": "item",
+          "title": "[beta] hermes-skill-kit",
+          "description": "by duruonanni - Three community-vetted skills: feishu-document-api (programmatic Feishu/Lark document creation), feishu-response-format (Feishu response formatting with 3 table schemes, Card JSON 2.0, Markdown compatibility, 53 tests), and hermes-memory-maintenance (MEMORY.md/USER.md audit and drift recovery). Codex-audited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T08:17:37Z",
+            "owner": "duruonanni",
+            "repo": "hermes-skill-kit",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[beta] hermes-telegram-checklist",
           "description": "by johnsje183 - Native Telegram To-Do lists (real interactive checkboxes with a progress counter) in chats and forum topics — create, read, append, toggle with a write allowlist and offline plan validation. Uses a Telethon user session (MTProto) because the Bot API can't post checklists into groups; treat the session account accordingly. MIT, CI across Python 3.9–3.13.",
           "children": [],
@@ -531,15 +545,15 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] hermes-skill-kit",
-          "description": "by duruonanni - Three community-vetted skills: feishu-document-api (programmatic Feishu/Lark document creation), feishu-response-format (Feishu response formatting with 3 table schemes, Card JSON 2.0, Markdown compatibility, 53 tests), and hermes-memory-maintenance (MEMORY.md/USER.md audit and drift recovery). Codex-audited.",
+          "title": "[beta] hermes-skills (liuyunnb666)",
+          "description": "by liuyunnb666 - Seven curated skills for Hermes: debugging, parallel dev, TDD, and UI workflows.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-12T08:17:37Z",
-            "owner": "duruonanni",
-            "repo": "hermes-skill-kit",
+            "last_commit": "2026-06-08T08:44:38Z",
+            "owner": "liuyunnb666",
+            "repo": "hermes-skills",
             "stars": 2
           }
         },
@@ -587,20 +601,6 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] hermes-skills (liuyunnb666)",
-          "description": "by liuyunnb666 - Seven curated skills for Hermes: debugging, parallel dev, TDD, and UI workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-08T08:44:38Z",
-            "owner": "liuyunnb666",
-            "repo": "hermes-skills",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[production] hermes-skills (winterliu6)",
           "description": "by winterliu6 - Chinese-focused skills pack: content-studio (小红书/抖音/公众号), security-newsletter (weekly cybersecurity awareness emails), and tech-ops-bot (企业微信/飞书 IT ops with fault classification and web dashboard). Production use at Yaolai Cinema IT.",
           "children": [],
@@ -624,6 +624,20 @@
             "last_commit": "2026-07-19T06:37:45Z",
             "owner": "tsol",
             "repo": "hinge-projects",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[experimental] skill-evolution",
+          "description": "by okdk7788 - GEPA-style measured evolution for learned agent skills, adapted from Hermes self-improvement ideas for Claude Code. MIT licensed, but still at its initial public revision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T21:24:12Z",
+            "owner": "okdk7788",
+            "repo": "skill-evolution",
             "stars": 1
           }
         },
@@ -663,7 +677,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:15:31Z",
+            "last_commit": "2026-08-17T04:19:45Z",
             "owner": "dongwei6688",
             "repo": "policy-search-china-skill",
             "stars": 1
@@ -685,6 +699,20 @@
         },
         {
           "node_type": "item",
+          "title": "[beta] roadmap-tutor",
+          "description": "by instax-dutta - Turns any of the 91 official roadmap.sh roadmaps into a resumable, one-topic-at-a-time curriculum with progress tracking across sessions. Topology-sorted learning path from reactflow graphs, stdlib-only Python, runs on Raspberry Pi 4 with 2GB RAM. Commands: start, next, done, skip, status, outline, search, goto, switch, prefetch, reset. Weekly CI verifies lossless parse across all 91 live roadmaps. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:07:52Z",
+            "owner": "instax-dutta",
+            "repo": "roadmap-tutor",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[experimental] routerbase-agent-skills",
           "description": "by zenlee123 - Skills for RouterBase model routing and media generation. Requires RouterBase credentials; MIT licensed and still at its initial public revision.",
           "children": [],
@@ -694,20 +722,6 @@
             "last_commit": "2026-07-05T17:32:23Z",
             "owner": "zenlee123",
             "repo": "routerbase-agent-skills",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[experimental] skill-evolution",
-          "description": "by okdk7788 - GEPA-style measured evolution for learned agent skills, adapted from Hermes self-improvement ideas for Claude Code. MIT licensed, but still at its initial public revision.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T21:24:12Z",
-            "owner": "okdk7788",
-            "repo": "skill-evolution",
             "stars": 0
           }
         },
@@ -755,15 +769,57 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] roadmap-tutor",
-          "description": "by instax-dutta - Turns any of the 91 official roadmap.sh roadmaps into a resumable, one-topic-at-a-time curriculum with progress tracking across sessions. Topology-sorted learning path from reactflow graphs, stdlib-only Python, runs on Raspberry Pi 4 with 2GB RAM. Commands: start, next, done, skip, status, outline, search, goto, switch, prefetch, reset. Weekly CI verifies lossless parse across all 91 live roadmaps. MIT.",
+          "title": "[experimental] hermes-startup",
+          "description": "by 33hodl - First-dollar onboarding skill: walks a new operator from a working Hermes install to one genuine paid outcome, rather than to a demo.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T19:07:52Z",
-            "owner": "instax-dutta",
-            "repo": "roadmap-tutor",
+            "last_commit": "2026-08-15T08:20:25Z",
+            "owner": "33hodl",
+            "repo": "hermes-startup",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] alter",
+          "description": "by alter-persona - Builds a digital persona from your own writing, so an agent can draft in your voice instead of a generic one. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:17:50Z",
+            "owner": "alter-persona",
+            "repo": "alter",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] shopify-app-review-brief",
+          "description": "by alfredtech2026 - Privacy-first Shopify app review triage: source-checked worksheets an operator can audit rather than a black-box score.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T17:18:03Z",
+            "owner": "alfredtech2026",
+            "repo": "shopify-app-review-brief",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[experimental] schedulala-agent",
+          "description": "by schedulala - Schedules and publishes social posts to 12 platforms from an agent. Holds credentials for every platform it posts to, so scope its tokens deliberately.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-01T22:05:03Z",
+            "owner": "schedulala",
+            "repo": "schedulala-agent",
             "stars": 0
           }
         }
@@ -781,10 +837,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T10:31:25Z",
+            "last_commit": "2026-08-17T10:55:23Z",
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 87228
+            "stars": 88045
           }
         },
         {
@@ -798,7 +854,7 @@
             "last_commit": "2026-08-08T14:55:19Z",
             "owner": "mukul975",
             "repo": "Anthropic-Cybersecurity-Skills",
-            "stars": 27906
+            "stars": 28054
           }
         },
         {
@@ -812,7 +868,7 @@
             "last_commit": "2026-08-05T10:18:33Z",
             "owner": "Agents365-ai",
             "repo": "drawio-skill",
-            "stars": 7677
+            "stars": 7712
           }
         },
         {
@@ -826,7 +882,7 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 1937
+            "stars": 1944
           }
         },
         {
@@ -840,7 +896,7 @@
             "last_commit": "2026-08-12T13:21:43Z",
             "owner": "ZeroPointRepo",
             "repo": "youtube-skills",
-            "stars": 518
+            "stars": 523
           }
         },
         {
@@ -851,7 +907,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:35:57Z",
+            "last_commit": "2026-08-16T13:00:59Z",
             "owner": "DougTrajano",
             "repo": "pydantic-ai-skills",
             "stars": 359
@@ -882,7 +938,7 @@
             "last_commit": "2026-08-15T09:11:34Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -924,7 +980,7 @@
             "last_commit": "2026-06-28T19:34:19Z",
             "owner": "Infrasity-Labs",
             "repo": "dev-gtm-claude-skills",
-            "stars": 107
+            "stars": 109
           }
         },
         {
@@ -938,7 +994,7 @@
             "last_commit": "2026-08-10T20:50:49Z",
             "owner": "black-forest-labs",
             "repo": "skills",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -957,6 +1013,20 @@
         },
         {
           "node_type": "item",
+          "title": "[beta] authsome",
+          "description": "by agentrhq - Local OAuth2 and API credential broker for agents. Log in once via browser PKCE or device code, credentials live in a local encrypted vault, and a local proxy injects them at request time so raw keys never enter the agent's environment. 45 providers preconfigured (14 OAuth2, 31 API credentials) including GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, and Stripe. Skill installs into Hermes with . MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T23:13:46Z",
+            "owner": "agentrhq",
+            "repo": "authsome",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[beta] plasma-wiki",
           "description": "by plasma-ai - Portable skill and Python CLI for hierarchical Markdown knowledge bases — create, index, search, read, and lint via , , and . Keeps project knowledge in Git-tracked plain Markdown with deterministic index maintenance, no hosted memory service or vector DB required. Apache-2.0.",
           "children": [],
@@ -967,20 +1037,6 @@
             "owner": "plasma-ai",
             "repo": "wiki",
             "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[beta] authsome",
-          "description": "by agentrhq - Local OAuth2 and API credential broker for agents. Log in once via browser PKCE or device code, credentials live in a local encrypted vault, and a local proxy injects them at request time so raw keys never enter the agent's environment. 45 providers preconfigured (14 OAuth2, 31 API credentials) including GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, and Stripe. Skill installs into Hermes with . MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T23:13:46Z",
-            "owner": "agentrhq",
-            "repo": "authsome",
-            "stars": 79
           }
         },
         {
@@ -1106,7 +1162,7 @@
             "last_commit": "2026-08-12T10:55:04Z",
             "owner": "outreachmagic",
             "repo": "outreachmagic",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1117,7 +1173,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:52:38Z",
+            "last_commit": "2026-08-17T07:45:17Z",
             "owner": "babyblueviper1",
             "repo": "invinoveritas",
             "stars": 5
@@ -1193,10 +1249,24 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T09:50:15Z",
+            "last_commit": "2026-08-16T19:46:00Z",
             "owner": "robbyczgw-cla",
             "repo": "hermes-web-search-plus",
-            "stars": 376
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[production] DashClaw",
+          "description": "by ucsandman - Approval and policy layer for agents: intercepts risky actions before they run and blocks or escalates them by rule. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T10:21:20Z",
+            "owner": "ucsandman",
+            "repo": "DashClaw",
+            "stars": 293
           }
         },
         {
@@ -1221,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:13:46Z",
+            "last_commit": "2026-08-16T21:03:02Z",
             "owner": "plur-ai",
             "repo": "plur",
             "stars": 237
@@ -1252,7 +1322,7 @@
             "last_commit": "2026-06-24T17:58:27Z",
             "owner": "8bit64k",
             "repo": "cronalytics",
-            "stars": 101
+            "stars": 103
           }
         },
         {
@@ -1280,7 +1350,7 @@
             "last_commit": "2026-04-05T01:30:52Z",
             "owner": "FahrenheitResearch",
             "repo": "hermes-weather-plugin",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1294,21 +1364,7 @@
             "last_commit": "2026-08-02T08:20:43Z",
             "owner": "raulvidis",
             "repo": "hermes-cloudflare",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[beta] hermes-curator-evolver",
-          "description": "by pingchesu - Evidence-driven companion to v0.12's built-in Curator. Observes tool/skill/session events into local SQLite, backfills existing history, generates reports and dry-run proposals, supports optional Qwen embedding + bge reranking for candidate ordering, and runs a guarded daily autorun loop that only appends low-risk evidence-backed notes (with backups and rollback manifests). Inspired by SkillClaw but adapted to Hermes-native plugin hooks with explicit model opt-ins and pinned-skill safety.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-21T10:11:59Z",
-            "owner": "pingchesu",
-            "repo": "hermes-curator-evolver",
-            "stars": 32
+            "stars": 47
           }
         },
         {
@@ -1322,6 +1378,20 @@
             "last_commit": "2026-06-01T06:40:48Z",
             "owner": "willingning-coder",
             "repo": "eagle-eye",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] hermes-curator-evolver",
+          "description": "by pingchesu - Evidence-driven companion to v0.12's built-in Curator. Observes tool/skill/session events into local SQLite, backfills existing history, generates reports and dry-run proposals, supports optional Qwen embedding + bge reranking for candidate ordering, and runs a guarded daily autorun loop that only appends low-risk evidence-backed notes (with backups and rollback manifests). Inspired by SkillClaw but adapted to Hermes-native plugin hooks with explicit model opt-ins and pinned-skill safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T10:11:59Z",
+            "owner": "pingchesu",
+            "repo": "hermes-curator-evolver",
             "stars": 32
           }
         },
@@ -1375,7 +1445,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T06:23:30Z",
+            "last_commit": "2026-08-17T06:06:53Z",
             "owner": "BlockRunAI",
             "repo": "ClawRouter-Hermes",
             "stars": 17
@@ -1411,20 +1481,6 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] custom-dangerous-patterns",
-          "description": "by scross01 - Add custom terminal command patterns requiring session approval before execution. Extends the standard approve-once/session/always/deny flow with CLI management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-23T11:44:27Z",
-            "owner": "scross01",
-            "repo": "hermes-custom-dangerous-patterns-plugin",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[experimental] hermes-plugin-chrome-profiles",
           "description": "by anpicasso - Switch browser tools between Chrome profiles via CDP. Useful for multi-account testing or browsing with different saved sessions.",
           "children": [],
@@ -1434,6 +1490,20 @@
             "last_commit": "2026-03-31T18:01:57Z",
             "owner": "anpicasso",
             "repo": "hermes-plugin-chrome-profiles",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] custom-dangerous-patterns",
+          "description": "by scross01 - Add custom terminal command patterns requiring session approval before execution. Extends the standard approve-once/session/always/deny flow with CLI management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T11:44:27Z",
+            "owner": "scross01",
+            "repo": "hermes-custom-dangerous-patterns-plugin",
             "stars": 6
           }
         },
@@ -1445,7 +1515,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-02T21:34:20Z",
+            "last_commit": "2026-08-17T10:39:51Z",
             "owner": "basilisk-labs",
             "repo": "agentplane-hermes-plugin",
             "stars": 5
@@ -1621,6 +1691,20 @@
         },
         {
           "node_type": "item",
+          "title": "[beta] hermes-yandex-disk",
+          "description": "by akinfold - Yandex Disk REST API v1 plugin: browse, read, download, write/upload, copy/move, share, and trash. Direct to ; action and path allowlists control what the agent may touch. High-privilege cloud storage — start read-only. MIT, on PyPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T07:18:27Z",
+            "owner": "akinfold",
+            "repo": "hermes-yandex-disk",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[beta] hermes-yandex-search-api",
           "description": "by akinfold - Yandex Search API plugin: routes Hermes to Yandex and adds a citation-backed generative search tool. Requires a paid Yandex Cloud API key + folder id. MIT, on PyPI.",
           "children": [],
@@ -1649,6 +1733,20 @@
         },
         {
           "node_type": "item",
+          "title": "[beta] cronwatch",
+          "description": "by nicokickcpython - Cron health hook that alerts on any scheduled job failure, without standing up a second cron to watch the first.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T14:56:03Z",
+            "owner": "nicokickcpython",
+            "repo": "cronwatch",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[beta] hermes-yandex-mail",
           "description": "by akinfold - Yandex Mail over IMAP (no third-party proxy): list/search/read/flag/move/delete with app-password auth. Read-and-organise only (no SMTP send); so reads do not mark seen; / allowlists drop disallowed tools entirely. High-privilege mailbox access — scope the allowlist tightly. MIT, on PyPI.",
           "children": [],
@@ -1658,20 +1756,6 @@
             "last_commit": "2026-07-28T07:18:52Z",
             "owner": "akinfold",
             "repo": "hermes-yandex-mail",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[beta] hermes-yandex-disk",
-          "description": "by akinfold - Yandex Disk REST API v1 plugin: browse, read, download, write/upload, copy/move, share, and trash. Direct to ; action and path allowlists control what the agent may touch. High-privilege cloud storage — start read-only. MIT, on PyPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T07:18:27Z",
-            "owner": "akinfold",
-            "repo": "hermes-yandex-disk",
             "stars": 0
           }
         },
@@ -1814,6 +1898,20 @@
             "repo": "hermes-agent-heartbeat",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "[experimental] hermes-gondola-provider",
+          "description": "by Gondola Market - Gondola as a native model provider: a USDC-settled model marketplace wired in through the provider interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T15:02:57Z",
+            "owner": "Gondola-Market",
+            "repo": "hermes-gondola-provider",
+            "stars": 0
+          }
         }
       ],
       "title": "Plugins"
@@ -1832,7 +1930,7 @@
             "last_commit": "2026-07-04T10:11:58Z",
             "owner": "bergside",
             "repo": "typeui",
-            "stars": 1764
+            "stars": 1769
           }
         },
         {
@@ -1857,10 +1955,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:00:51Z",
+            "last_commit": "2026-08-17T10:16:45Z",
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1874,7 +1972,7 @@
             "last_commit": "2026-06-30T18:24:52Z",
             "owner": "amanning3390",
             "repo": "hermeshub",
-            "stars": 19
+            "stars": 21
           }
         },
         {
@@ -1908,7 +2006,7 @@
             "last_commit": "2026-08-15T10:43:29Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63360
+            "stars": 63427
           }
         },
         {
@@ -1919,10 +2017,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:34:51Z",
+            "last_commit": "2026-08-16T23:21:30Z",
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 28928
+            "stars": 28931
           }
         },
         {
@@ -1933,10 +2031,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T09:41:19Z",
+            "last_commit": "2026-08-17T02:53:22Z",
             "owner": "garrytan",
             "repo": "gbrain",
-            "stars": 28530
+            "stars": 28589
           }
         },
         {
@@ -1947,10 +2045,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:34:38Z",
+            "last_commit": "2026-08-17T10:59:11Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 20023
+            "stars": 20080
           }
         },
         {
@@ -1964,7 +2062,7 @@
             "last_commit": "2026-08-14T21:39:14Z",
             "owner": "plastic-labs",
             "repo": "honcho",
-            "stars": 6666
+            "stars": 6680
           }
         },
         {
@@ -1975,10 +2073,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:48:05Z",
+            "last_commit": "2026-08-17T08:12:27Z",
             "owner": "mnemosyne-oss",
             "repo": "mnemosyne",
-            "stars": 2535
+            "stars": 2564
           }
         },
         {
@@ -1992,7 +2090,7 @@
             "last_commit": "2026-08-15T20:40:35Z",
             "owner": "greyhaven-ai",
             "repo": "autocontext",
-            "stars": 1275
+            "stars": 1278
           }
         },
         {
@@ -2006,7 +2104,7 @@
             "last_commit": "2026-08-13T01:47:30Z",
             "owner": "stephenschoettler",
             "repo": "hermes-lcm",
-            "stars": 988
+            "stars": 994
           }
         },
         {
@@ -2034,7 +2132,7 @@
             "last_commit": "2026-08-06T14:25:31Z",
             "owner": "yoloshii",
             "repo": "ClawMem",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -2045,7 +2143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:03:14Z",
+            "last_commit": "2026-08-16T18:41:23Z",
             "owner": "yantrikos",
             "repo": "yantrikdb-hermes-plugin",
             "stars": 79
@@ -2104,7 +2202,7 @@
             "last_commit": "2026-08-15T10:52:40Z",
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
-            "stars": 35
+            "stars": 38
           }
         },
         {
@@ -2143,7 +2241,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T07:21:53Z",
+            "last_commit": "2026-08-17T02:15:06Z",
             "owner": "Lians-ai",
             "repo": "Lians",
             "stars": 6
@@ -2160,7 +2258,7 @@
             "last_commit": "2026-07-24T02:10:06Z",
             "owner": "sourcevault-ai",
             "repo": "sourcevault-code-tools",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2205,10 +2303,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T05:50:02Z",
+            "last_commit": "2026-08-17T09:07:09Z",
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10303
+            "stars": 10355
           }
         },
         {
@@ -2222,7 +2320,7 @@
             "last_commit": "2026-08-04T02:43:47Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8622
+            "stars": 8650
           }
         },
         {
@@ -2236,7 +2334,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6443
+            "stars": 6451
           }
         },
         {
@@ -2247,10 +2345,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:05:50Z",
+            "last_commit": "2026-08-17T00:25:44Z",
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6011
+            "stars": 6018
           }
         },
         {
@@ -2261,10 +2359,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T13:50:02Z",
+            "last_commit": "2026-08-17T08:48:07Z",
             "owner": "AMAP-ML",
             "repo": "SkillClaw",
-            "stars": 2447
+            "stars": 2450
           }
         },
         {
@@ -2278,7 +2376,21 @@
             "last_commit": "2026-06-19T10:52:35Z",
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 1993
+            "stars": 1994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] agent-qa",
+          "description": "by vostride - Self-improving QA agent: a test harness with memory, so repeated failures inform the next run instead of restarting cold.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 871
           }
         },
         {
@@ -2289,7 +2401,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T16:37:21Z",
+            "last_commit": "2026-08-16T18:03:41Z",
             "owner": "fkiene",
             "repo": "llmtrim",
             "stars": 211
@@ -2306,7 +2418,7 @@
             "last_commit": "2026-06-30T09:54:59Z",
             "owner": "pyrate-llama",
             "repo": "hermes-ui",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -2317,7 +2429,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T16:33:41Z",
+            "last_commit": "2026-08-16T15:59:32Z",
             "owner": "unmodeled-tyler",
             "repo": "vessel-browser",
             "stars": 126
@@ -2331,7 +2443,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:40:54Z",
+            "last_commit": "2026-08-17T01:11:50Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
             "stars": 119
@@ -2359,7 +2471,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:45:14Z",
+            "last_commit": "2026-08-16T17:57:54Z",
             "owner": "drakulavich",
             "repo": "kesha-voice-kit",
             "stars": 70
@@ -2381,20 +2493,6 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] lintlang",
-          "description": "by Hermes Labs - Deterministic local static analysis for authored natural-language agent instructions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T08:22:28Z",
-            "owner": "hermes-labs-ai",
-            "repo": "lintlang",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[experimental] hermes-neurovision",
           "description": "by Tranquil-Flow - Terminal neurovisualizer with 42 animated themes. Decorative terminal overlays for agent activity.",
           "children": [],
@@ -2404,6 +2502,20 @@
             "last_commit": "2026-03-16T06:05:35Z",
             "owner": "Tranquil-Flow",
             "repo": "hermes-neurovision",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] lintlang",
+          "description": "by Hermes Labs - Deterministic local static analysis for authored natural-language agent instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-15T08:22:28Z",
+            "owner": "hermes-labs-ai",
+            "repo": "lintlang",
             "stars": 59
           }
         },
@@ -2415,7 +2527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T04:32:50Z",
+            "last_commit": "2026-08-17T05:03:36Z",
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
             "stars": 40
@@ -2457,10 +2569,24 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T10:34:12Z",
+            "last_commit": "2026-08-17T09:53:57Z",
             "owner": "Socialpranker",
             "repo": "agentburn",
             "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] SandBase CLI",
+          "description": "by sandbaseai - Agent-first CLI and MCP bridge across 2,000+ models, with sandboxes for multimodal generation. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T13:03:54Z",
+            "owner": "sandbaseai",
+            "repo": "cli",
+            "stars": 8
           }
         },
         {
@@ -2475,6 +2601,20 @@
             "owner": "mauricemohr88-debug",
             "repo": "hermes-plugin-guard",
             "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] agent-trust-kit",
+          "description": "by mauricemohr88-debug - Bounded agent handoffs: explicit file packets and evidence receipts, so what crossed a handoff boundary is auditable after the fact.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:00:48Z",
+            "owner": "mauricemohr88-debug",
+            "repo": "agent-trust-kit",
+            "stars": 5
           }
         },
         {
@@ -2546,6 +2686,20 @@
             "repo": "codex-stt-bridge",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] ai-usage-monitor",
+          "description": "by TurkeyGuoba - Local, read-only usage monitor: cache-hit rate, tokens, and cost per provider. Reads only; sends nothing anywhere. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T15:09:58Z",
+            "owner": "TurkeyGuoba",
+            "repo": "ai-usage-monitor",
+            "stars": 1
+          }
         }
       ],
       "title": "Tools & Utilities"
@@ -2608,6 +2762,20 @@
             "repo": "hermes-agent-template",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] Hermes-OTG",
+          "description": "by MilkyWay008 - Hermes on a USB stick — a rescue companion for recovering a broken host install without rebuilding the machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-15T01:39:52Z",
+            "owner": "MilkyWay008",
+            "repo": "Hermes-OTG",
+            "stars": 5
+          }
         }
       ],
       "title": "Deployment"
@@ -2617,30 +2785,16 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[production] Spraay x402 Gateway",
-          "description": "by plagtech - Batch-pay recipients in a single on-chain transaction across 13+ chains. 151 paid primitives via x402 micropayment protocol. Available as Hermes skill or MCP server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T10:27:37Z",
-            "owner": "NousResearch",
-            "repo": "hermes-agent",
-            "stars": 231256
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[production] screenpipe",
           "description": "by screenpipe - Local-first screen and audio capture that gives Hermes long-term memory of what you've seen, said, and heard. Connects over MCP (, stdio or HTTP) with tools for search, activity summaries, and meeting detection. Fully on-device.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T10:47:21Z",
+            "last_commit": "2026-08-17T05:02:04Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 20965
+            "stars": 20980
           }
         },
         {
@@ -2654,7 +2808,7 @@
             "last_commit": "2026-08-05T12:09:47Z",
             "owner": "jau123",
             "repo": "MeiGen-AI-Design-MCP",
-            "stars": 1704
+            "stars": 1706
           }
         },
         {
@@ -2777,7 +2931,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T01:30:57Z",
+            "last_commit": "2026-08-16T22:43:28Z",
             "owner": "agent37-platform",
             "repo": "gateway",
             "stars": 12
@@ -2939,16 +3093,16 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] space0",
-          "description": "by zero-sq - Shared 3D voxel world body for agents with spatial memory, co-presence, and persistent identity across sessions. agentskills.io skill + MCP server.",
+          "title": "[beta] hermes-connector",
+          "description": "by CorsenAI - Chrome extension giving Hermes exact sessions and user-selected tabs, local-first, instead of a blanket browser grant.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-06-05T04:19:48Z",
-            "owner": "zero-sq",
-            "repo": "space0-mcp",
-            "stars": 1
+            "language": "Python",
+            "last_commit": "2026-08-16T16:57:35Z",
+            "owner": "CorsenAI",
+            "repo": "hermes-connector",
+            "stars": 2
           }
         },
         {
@@ -2967,9 +3121,17 @@
         },
         {
           "node_type": "item",
-          "title": "[experimental] zouroboros-swarm-executors",
-          "description": "by marlandoj - Local executor bridge for Claude Code + Hermes integration. Enables task handoff between both agents.",
-          "children": []
+          "title": "[beta] hermes-proxy",
+          "description": "by TurkeyGuoba - Independent mihomo proxy management for Hermes, kept out of the agent's own network path. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T20:37:22Z",
+            "owner": "TurkeyGuoba",
+            "repo": "hermes-proxy",
+            "stars": 1
+          }
         }
       ],
       "title": "Integrations & Bridges"
@@ -2985,10 +3147,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:54:45Z",
+            "last_commit": "2026-08-17T10:00:58Z",
             "owner": "Ikalus1988",
             "repo": "MisakaNet",
-            "stars": 389
+            "stars": 398
           }
         },
         {
@@ -3064,7 +3226,7 @@
             "last_commit": "2026-08-11T17:13:26Z",
             "owner": "internet-court",
             "repo": "internet-court-skill",
-            "stars": 2232
+            "stars": 3125
           }
         },
         {
@@ -3075,7 +3237,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:00:17Z",
+            "last_commit": "2026-08-16T21:33:14Z",
             "owner": "avansaber",
             "repo": "erpclaw",
             "stars": 91
@@ -3092,7 +3254,7 @@
             "last_commit": "2026-08-14T15:00:02Z",
             "owner": "longsizhuo",
             "repo": "openInvest",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -3162,7 +3324,7 @@
             "last_commit": "2026-07-15T10:51:00Z",
             "owner": "JackTheGit",
             "repo": "hermes-ai-infrastructure-monitoring-toolkit",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -3260,7 +3422,7 @@
             "last_commit": "2026-03-15T07:43:31Z",
             "owner": "Snehal707",
             "repo": "Hermes-mars-rover",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -3415,10 +3577,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:34:38Z",
+            "last_commit": "2026-08-17T10:59:11Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 20023
+            "stars": 20080
           }
         },
         {
@@ -3432,7 +3594,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5041
+            "stars": 5052
           }
         },
         {
@@ -3466,7 +3628,7 @@
             "last_commit": "2026-08-08T04:42:37Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6443
+            "stars": 6451
           }
         },
         {
@@ -3480,7 +3642,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5041
+            "stars": 5052
           }
         },
         {
@@ -3494,7 +3656,7 @@
             "last_commit": "2026-04-04T05:44:23Z",
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1810
+            "stars": 1812
           }
         },
         {
@@ -3513,6 +3675,20 @@
         },
         {
           "node_type": "item",
+          "title": "Multi-agent execution layer — Combine Hermes core delegation with zouroboros-swarm-executors for local Claude Code/Hermes handoff, and opencode-hermes-multiagent",
+          "description": "or bigiron when you need specialized agent roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-31T14:58:10Z",
+            "owner": "1ilkhamov",
+            "repo": "opencode-hermes-multiagent",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Migration + deployment hardening — If you are moving from OpenClaw, keep openclaw-to-hermes",
           "description": "in the toolkit even if you prefer the native migration path. For repeatable deploys, look at nix-hermes-agent, hermes-agent-docker, and evey-setup depending on how opinionated you want the stack to be.",
           "children": [],
@@ -3524,12 +3700,6 @@
             "repo": "openclaw-to-hermes",
             "stars": 37
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-agent execution layer — Combine Hermes core delegation with zouroboros-swarm-executors",
-          "description": "for local Claude Code/Hermes handoff, and opencode-hermes-multiagent or bigiron when you need specialized agent roles.",
-          "children": []
         }
       ],
       "title": "Level-Up Blueprints"
@@ -3541,9 +3711,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:57:08.785Z",
+    "last_updated": "2026-08-17T11:01:16.502Z",
     "original_repository": "0xNyk/awesome-hermes-agent",
-    "original_repository_sha": "f1df6613c32ce840e4bb8ae0fb3497fdaf7f5a30",
+    "original_repository_sha": "7ebb09f86d8cfd746c9706201f29b9e315e467a1",
     "enhanced_repository": "enhansome/enhansome-hermes-agent",
     "enhanced_repository_description": null,
     "title": "Awesome Hermes Agent with stars"
