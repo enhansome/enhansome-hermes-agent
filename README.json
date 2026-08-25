@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T05:24:08Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6504
+            "stars": 6510
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-10T11:47:12Z",
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 2004
+            "stars": 2016
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-24T13:09:29Z",
+            "last_commit": "2026-08-25T04:51:46Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 235494
+            "stars": 235963
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-24T13:09:29Z",
+            "last_commit": "2026-08-25T04:51:46Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 235494
+            "stars": 235963
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5142
+            "stars": 5154
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-03-20T16:17:11Z",
             "owner": "NousResearch",
             "repo": "autonovel",
-            "stars": 1510
+            "stars": 1513
           }
         },
         {
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 1258301311,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:00:41Z",
+                "last_commit": "2026-08-25T04:12:20Z",
                 "owner": "rlaope",
                 "repo": "oh-my-hermes",
-                "stars": 1102
+                "stars": 1116
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 587
+                "stars": 589
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-03-18T13:13:38Z",
                 "owner": "Romanescu11",
                 "repo": "hermes-skill-factory",
-                "stars": 530
+                "stars": 533
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-07-18T05:50:32Z",
                 "owner": "42-evey",
                 "repo": "hermes-plugins",
-                "stars": 425
+                "stars": 433
               }
             },
             {
@@ -209,7 +209,7 @@
                 "last_commit": "2026-07-27T17:15:52Z",
                 "owner": "Cranot",
                 "repo": "super-hermes",
-                "stars": 409
+                "stars": 410
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2026-08-05T12:34:16Z",
                 "owner": "witt3rd",
                 "repo": "oh-my-hermes",
-                "stars": 278
+                "stars": 286
               }
             },
             {
@@ -236,7 +236,7 @@
                 "archived": false,
                 "id": 1293528352,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:22:35Z",
+                "last_commit": "2026-08-24T18:30:47Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
                 "stars": 272
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-21T20:44:46Z",
                 "owner": "ilyautov",
                 "repo": "humanizer-ru",
-                "stars": 245
+                "stars": 247
               }
             },
             {
@@ -281,10 +281,10 @@
                 "archived": false,
                 "id": 1181994538,
                 "language": "Python",
-                "last_commit": "2026-08-22T04:37:04Z",
+                "last_commit": "2026-08-25T05:36:11Z",
                 "owner": "Lethe044",
                 "repo": "hermes-life-os",
-                "stars": 178
+                "stars": 181
               }
             },
             {
@@ -484,6 +484,21 @@
             },
             {
               "node_type": "item",
+              "title": "[beta] hermes-telegram-checklist",
+              "description": "by johnsje183 - Native Telegram To-Do lists (real interactive checkboxes with a progress counter) in chats and forum topics — create, read, append, toggle with a write allowlist and offline plan validation. Uses a Telethon user session (MTProto) because the Bot API can't post checklists into groups; treat the session account accordingly. MIT, CI across Python 3.9–3.13.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1307878614,
+                "language": "Python",
+                "last_commit": "2026-07-21T16:57:26Z",
+                "owner": "johnsje183",
+                "repo": "hermes-telegram-checklist",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "[beta] blacktea",
               "description": "by nmrtn - Spending controls for agents that pay online via x402. Holds over-limit payments for human approval in the chat, enforces a JSON policy, and audits every spend. Ships as an MCP server (pay, approve_payment, reject_payment, audit_query) plus an SDK and CLI.",
               "children": [],
@@ -514,21 +529,6 @@
             },
             {
               "node_type": "item",
-              "title": "[beta] hermes-telegram-checklist",
-              "description": "by johnsje183 - Native Telegram To-Do lists (real interactive checkboxes with a progress counter) in chats and forum topics — create, read, append, toggle with a write allowlist and offline plan validation. Uses a Telethon user session (MTProto) because the Bot API can't post checklists into groups; treat the session account accordingly. MIT, CI across Python 3.9–3.13.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1307878614,
-                "language": "Python",
-                "last_commit": "2026-07-21T16:57:26Z",
-                "owner": "johnsje183",
-                "repo": "hermes-telegram-checklist",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[experimental] obsidian-auto-context",
               "description": "by SkillForge Labs - Captures each session's findings, decisions, and action items into an Obsidian vault as tagged, wiki-linked Markdown with daily-note rollups. Secrets are redacted before anything touches disk. MIT.",
               "children": [],
@@ -539,6 +539,21 @@
                 "last_commit": "2026-07-17T20:09:34Z",
                 "owner": "SkillForge-Labs",
                 "repo": "obsidian-auto-context",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[experimental] url-manager",
+              "description": "by Piccolo123 - Agent-first URL collection and knowledge management: agents save, categorize, tag, search, and share web links, with collaborative shared categories and magic-link delivery back to the user. MIT client fronting a hosted backend (ai.ocean94.com) — an account is auto-created on first use and collected links are stored there; SKILL.md requires informing the user before first use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282724982,
+                "language": "Python",
+                "last_commit": "2026-08-14T10:52:15Z",
+                "owner": "Piccolo123",
+                "repo": "url-manager",
                 "stars": 4
               }
             },
@@ -584,21 +599,6 @@
                 "last_commit": "2026-07-21T09:29:24Z",
                 "owner": "loremaster-ai",
                 "repo": "loremaster",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "[experimental] url-manager",
-              "description": "by Piccolo123 - Agent-first URL collection and knowledge management: agents save, categorize, tag, search, and share web links, with collaborative shared categories and magic-link delivery back to the user. MIT client fronting a hosted backend (ai.ocean94.com) — an account is auto-created on first use and collected links are stored there; SKILL.md requires informing the user before first use.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1282724982,
-                "language": "Python",
-                "last_commit": "2026-08-14T10:52:15Z",
-                "owner": "Piccolo123",
-                "repo": "url-manager",
                 "stars": 3
               }
             },
@@ -888,10 +888,10 @@
                 "archived": false,
                 "id": 1223170290,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:53:28Z",
+                "last_commit": "2026-08-25T05:46:56Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 90981
+                "stars": 91175
               }
             },
             {
@@ -906,7 +906,7 @@
                 "last_commit": "2026-08-24T11:12:27Z",
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 30918
+                "stars": 31020
               }
             },
             {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-23T07:38:33Z",
                 "owner": "Agents365-ai",
                 "repo": "drawio-skill",
-                "stars": 7942
+                "stars": 7960
               }
             },
             {
@@ -936,7 +936,7 @@
                 "last_commit": "2026-08-10T11:47:12Z",
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2004
+                "stars": 2016
               }
             },
             {
@@ -951,7 +951,7 @@
                 "last_commit": "2026-08-23T05:51:01Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 554
+                "stars": 560
               }
             },
             {
@@ -993,7 +993,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:12:22Z",
+                "last_commit": "2026-08-25T03:15:15Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 187
@@ -1041,7 +1041,7 @@
                 "last_commit": "2026-06-28T19:34:19Z",
                 "owner": "Infrasity-Labs",
                 "repo": "dev-gtm-claude-skills",
-                "stars": 111
+                "stars": 112
               }
             },
             {
@@ -1053,7 +1053,7 @@
                 "archived": false,
                 "id": 1140927044,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T22:02:24Z",
+                "last_commit": "2026-08-24T18:10:51Z",
                 "owner": "black-forest-labs",
                 "repo": "skills",
                 "stars": 106
@@ -1098,7 +1098,7 @@
                 "archived": false,
                 "id": 1285643256,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:14:23Z",
+                "last_commit": "2026-08-25T02:42:56Z",
                 "owner": "plasma-ai",
                 "repo": "wiki",
                 "stars": 81
@@ -1131,7 +1131,7 @@
                 "last_commit": "2026-08-13T13:37:37Z",
                 "owner": "longbridge",
                 "repo": "skills",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1173,7 +1173,7 @@
                 "archived": false,
                 "id": 1258023796,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:38:38Z",
+                "last_commit": "2026-08-24T20:41:14Z",
                 "owner": "markoblogo",
                 "repo": "abvx-agent-skills",
                 "stars": 14
@@ -1248,7 +1248,7 @@
                 "archived": false,
                 "id": 1239996824,
                 "language": "Python",
-                "last_commit": "2026-08-22T10:00:27Z",
+                "last_commit": "2026-08-25T03:37:09Z",
                 "owner": "babyblueviper1",
                 "repo": "invinoveritas",
                 "stars": 5
@@ -1498,7 +1498,7 @@
                 "last_commit": "2026-08-19T16:18:30Z",
                 "owner": "bielcarpi",
                 "repo": "hermes-live-voice",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -1558,7 +1558,7 @@
                 "last_commit": "2026-07-18T05:50:41Z",
                 "owner": "42-evey",
                 "repo": "evey-bridge-plugin",
-                "stars": 15
+                "stars": 16
               }
             },
             {
@@ -2060,7 +2060,7 @@
                 "last_commit": "2026-07-04T10:11:58Z",
                 "owner": "bergside",
                 "repo": "typeui",
-                "stars": 1812
+                "stars": 1816
               }
             },
             {
@@ -2143,10 +2143,10 @@
             "archived": false,
             "id": 656099147,
             "language": "Python",
-            "last_commit": "2026-08-24T13:51:31Z",
+            "last_commit": "2026-08-24T20:06:40Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63946
+            "stars": 63976
           }
         },
         {
@@ -2158,10 +2158,10 @@
             "archived": false,
             "id": 764287615,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:35:52Z",
+            "last_commit": "2026-08-24T22:41:30Z",
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29030
+            "stars": 29049
           }
         },
         {
@@ -2173,10 +2173,10 @@
             "archived": false,
             "id": 1202057891,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:39:43Z",
+            "last_commit": "2026-08-25T05:42:09Z",
             "owner": "garrytan",
             "repo": "gbrain",
-            "stars": 29009
+            "stars": 29038
           }
         },
         {
@@ -2188,10 +2188,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-24T13:30:50Z",
+            "last_commit": "2026-08-25T03:35:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21021
+            "stars": 21057
           }
         },
         {
@@ -2203,10 +2203,10 @@
             "archived": false,
             "id": 689777286,
             "language": "Python",
-            "last_commit": "2026-08-24T13:33:09Z",
+            "last_commit": "2026-08-24T21:44:47Z",
             "owner": "plastic-labs",
             "repo": "honcho",
-            "stars": 6805
+            "stars": 6816
           }
         },
         {
@@ -2221,7 +2221,7 @@
             "last_commit": "2026-08-24T10:54:38Z",
             "owner": "mnemosyne-oss",
             "repo": "mnemosyne",
-            "stars": 2741
+            "stars": 2756
           }
         },
         {
@@ -2233,7 +2233,7 @@
             "archived": false,
             "id": 1155776799,
             "language": "Python",
-            "last_commit": "2026-08-24T13:53:22Z",
+            "last_commit": "2026-08-24T22:28:13Z",
             "owner": "greyhaven-ai",
             "repo": "autocontext",
             "stars": 1285
@@ -2251,7 +2251,7 @@
             "last_commit": "2026-08-13T01:47:30Z",
             "owner": "stephenschoettler",
             "repo": "hermes-lcm",
-            "stars": 1020
+            "stars": 1021
           }
         },
         {
@@ -2266,7 +2266,7 @@
             "last_commit": "2026-04-09T04:51:34Z",
             "owner": "elkimek",
             "repo": "honcho-self-hosted",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -2281,7 +2281,7 @@
             "last_commit": "2026-08-18T19:28:18Z",
             "owner": "yoloshii",
             "repo": "ClawMem",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -2296,7 +2296,7 @@
             "last_commit": "2026-08-12T07:33:27Z",
             "owner": "DrDroidLab",
             "repo": "open-index",
-            "stars": 107
+            "stars": 106
           }
         },
         {
@@ -2308,10 +2308,10 @@
             "archived": false,
             "id": 1211008223,
             "language": "Python",
-            "last_commit": "2026-08-19T21:39:27Z",
+            "last_commit": "2026-08-24T18:44:25Z",
             "owner": "yantrikos",
             "repo": "yantrikdb-hermes-plugin",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -2323,7 +2323,7 @@
             "archived": false,
             "id": 1316178203,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:46:57Z",
+            "last_commit": "2026-08-24T16:51:09Z",
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
             "stars": 47
@@ -2464,10 +2464,10 @@
             "archived": false,
             "id": 1207639951,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:52:43Z",
+            "last_commit": "2026-08-25T04:56:24Z",
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10559
+            "stars": 10582
           }
         },
         {
@@ -2479,10 +2479,10 @@
             "archived": false,
             "id": 1142274728,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T20:30:53Z",
+            "last_commit": "2026-08-25T03:33:21Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8836
+            "stars": 8851
           }
         },
         {
@@ -2497,7 +2497,7 @@
             "last_commit": "2026-08-22T05:24:08Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6504
+            "stars": 6510
           }
         },
         {
@@ -2509,10 +2509,10 @@
             "archived": false,
             "id": 1156797572,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T00:24:21Z",
+            "last_commit": "2026-08-25T05:42:25Z",
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6077
+            "stars": 6085
           }
         },
         {
@@ -2527,7 +2527,7 @@
             "last_commit": "2026-08-17T08:48:07Z",
             "owner": "AMAP-ML",
             "repo": "SkillClaw",
-            "stars": 2491
+            "stars": 2497
           }
         },
         {
@@ -2542,7 +2542,7 @@
             "last_commit": "2026-06-19T10:52:35Z",
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 2000
+            "stars": 2001
           }
         },
         {
@@ -2557,7 +2557,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -2599,7 +2599,7 @@
             "archived": false,
             "id": 1175081210,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:34:26Z",
+            "last_commit": "2026-08-25T01:30:24Z",
             "owner": "unmodeled-tyler",
             "repo": "vessel-browser",
             "stars": 129
@@ -2632,7 +2632,7 @@
             "last_commit": "2026-03-24T21:52:07Z",
             "owner": "sanchomuzax",
             "repo": "hermes-webui",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -2667,21 +2667,6 @@
         },
         {
           "node_type": "item",
-          "title": "[beta] lintlang",
-          "description": "by Hermes Labs - Deterministic local static analysis for authored natural-language agent instructions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1168980518,
-            "language": "Python",
-            "last_commit": "2026-08-22T04:23:17Z",
-            "owner": "hermes-labs-ai",
-            "repo": "lintlang",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
           "title": "[experimental] hermes-neurovision",
           "description": "by Tranquil-Flow - Terminal neurovisualizer with 42 animated themes. Decorative terminal overlays for agent activity.",
           "children": [],
@@ -2692,7 +2677,22 @@
             "last_commit": "2026-03-16T06:05:35Z",
             "owner": "Tranquil-Flow",
             "repo": "hermes-neurovision",
-            "stars": 61
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[beta] lintlang",
+          "description": "by Hermes Labs - Deterministic local static analysis for authored natural-language agent instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1168980518,
+            "language": "Python",
+            "last_commit": "2026-08-24T20:57:17Z",
+            "owner": "hermes-labs-ai",
+            "repo": "lintlang",
+            "stars": 62
           }
         },
         {
@@ -2707,7 +2707,7 @@
             "last_commit": "2026-08-23T11:29:29Z",
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -2719,7 +2719,7 @@
             "archived": false,
             "id": 1182767219,
             "language": "Nix",
-            "last_commit": "2026-08-24T04:41:16Z",
+            "last_commit": "2026-08-25T04:36:11Z",
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
             "stars": 41
@@ -2916,10 +2916,10 @@
                 "archived": false,
                 "id": 1186006472,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:17:26Z",
+                "last_commit": "2026-08-25T04:30:31Z",
                 "owner": "solomon2773",
                 "repo": "nora",
-                "stars": 48
+                "stars": 47
               }
             },
             {
@@ -2987,10 +2987,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:34:51Z",
+            "last_commit": "2026-08-25T02:14:18Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21202
+            "stars": 21208
           }
         },
         {
@@ -3005,7 +3005,7 @@
             "last_commit": "2026-08-05T12:09:47Z",
             "owner": "jau123",
             "repo": "MeiGen-AI-Design-MCP",
-            "stars": 1713
+            "stars": 1714
           }
         },
         {
@@ -3020,7 +3020,7 @@
             "last_commit": "2026-08-19T02:01:55Z",
             "owner": "raulvidis",
             "repo": "hermes-android",
-            "stars": 474
+            "stars": 477
           }
         },
         {
@@ -3137,7 +3137,7 @@
             "archived": false,
             "id": 1259582388,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:03:32Z",
+            "last_commit": "2026-08-25T00:39:06Z",
             "owner": "agent37-platform",
             "repo": "gateway",
             "stars": 13
@@ -3302,7 +3302,7 @@
             "archived": false,
             "id": 1209622014,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:24:47Z",
+            "last_commit": "2026-08-24T14:18:22Z",
             "owner": "1clawAI",
             "repo": "1claw-hermes",
             "stars": 2
@@ -3368,10 +3368,10 @@
             "archived": false,
             "id": 1224734286,
             "language": "Python",
-            "last_commit": "2026-08-24T13:48:27Z",
+            "last_commit": "2026-08-25T04:47:26Z",
             "owner": "Ikalus1988",
             "repo": "MisakaNet",
-            "stars": 424
+            "stars": 426
           }
         },
         {
@@ -3386,7 +3386,7 @@
             "last_commit": "2025-12-31T14:58:10Z",
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -3401,7 +3401,7 @@
             "last_commit": "2026-03-16T03:06:41Z",
             "owner": "runtimenoteslabs",
             "repo": "gladiator",
-            "stars": 76
+            "stars": 75
           }
         },
         {
@@ -3452,7 +3452,7 @@
             "last_commit": "2026-08-19T15:00:54Z",
             "owner": "internet-court",
             "repo": "internet-court-skill",
-            "stars": 4675
+            "stars": 4816
           }
         },
         {
@@ -3479,7 +3479,7 @@
             "archived": false,
             "id": 1119614474,
             "language": "Python",
-            "last_commit": "2026-08-21T15:00:02Z",
+            "last_commit": "2026-08-25T05:00:02Z",
             "owner": "longsizhuo",
             "repo": "openInvest",
             "stars": 81
@@ -3497,7 +3497,7 @@
             "last_commit": "2026-03-25T21:11:19Z",
             "owner": "bigph00t",
             "repo": "hermescraft",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -3632,7 +3632,7 @@
             "last_commit": "2026-05-25T02:12:39Z",
             "owner": "setasoma",
             "repo": "mycodo-hermes-skill",
-            "stars": 16
+            "stars": 15
           }
         },
         {
@@ -3677,7 +3677,7 @@
             "last_commit": "2026-07-12T00:11:32Z",
             "owner": "currentslab",
             "repo": "news-api-skills",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -3827,10 +3827,10 @@
             "archived": false,
             "id": 1086419061,
             "language": "Python",
-            "last_commit": "2026-08-24T13:30:50Z",
+            "last_commit": "2026-08-25T03:35:02Z",
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 21021
+            "stars": 21057
           }
         },
         {
@@ -3845,7 +3845,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5142
+            "stars": 5154
           }
         },
         {
@@ -3881,7 +3881,7 @@
             "last_commit": "2026-08-22T05:24:08Z",
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6504
+            "stars": 6510
           }
         },
         {
@@ -3896,7 +3896,7 @@
             "last_commit": "2026-06-17T11:53:04Z",
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5142
+            "stars": 5154
           }
         },
         {
@@ -3926,7 +3926,7 @@
             "last_commit": "2026-04-09T04:51:34Z",
             "owner": "elkimek",
             "repo": "honcho-self-hosted",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -3941,7 +3941,7 @@
             "last_commit": "2025-12-31T14:58:10Z",
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -3964,7 +3964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:49.616Z",
+    "last_updated": "2026-08-25T05:48:24.658Z",
     "original_repository": "0xNyk/awesome-hermes-agent",
     "original_repository_id": 1189234446,
     "original_repository_sha": "7ebb09f86d8cfd746c9706201f29b9e315e467a1",
