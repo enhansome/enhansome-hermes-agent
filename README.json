@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6587,
+            "stars": 6597,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "wondelai",
             "repo": "skills",
-            "stars": 2132,
+            "stars": 2136,
             "topics": [
               "agent-skills",
               "ai-skills",
@@ -88,11 +88,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:04:34Z",
-            "open_issues": 41266,
+            "last_commit": "2026-09-10T14:37:46Z",
+            "open_issues": 41522,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 243713,
+            "stars": 244108,
             "topics": [
               "ai",
               "ai-agent",
@@ -123,11 +123,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:04:34Z",
-            "open_issues": 41266,
+            "last_commit": "2026-09-10T14:37:46Z",
+            "open_issues": 41522,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 243713,
+            "stars": 244108,
             "topics": [
               "ai",
               "ai-agent",
@@ -162,7 +162,7 @@
             "open_issues": 122,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5283,
+            "stars": 5291,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -183,7 +183,7 @@
             "open_issues": 148,
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1869,
+            "stars": 1871,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -240,37 +240,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[beta] OMH (oh-my-hermes by rlaope)",
-              "description": "by rlaope - Wrapper orchestration layer installed next to Hermes — one installs 80+ generated workflow skills plus a deterministic chat router that turns free-form Korean/English chat into the right prepared workflow, clarifying instead of guessing when confidence is low. Coding work is delegated to an explicitly selected executor (Codex, Claude Code, or the Hermes runtime) with a strict prepared-vs-observed evidence boundary. A 156-case bilingual routing corpus and ~1,500 unit tests gate every change in CI. Pure Python, zero runtime dependencies, never patches Hermes; docs in four languages. Distinct project from witt3rd's oh-my-hermes above. MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-                "homepage": "https://rlaope.github.io/oh-my-hermes/",
-                "id": 1258301311,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-09T14:43:34Z",
-                "open_issues": 13,
-                "owner": "rlaope",
-                "repo": "oh-my-hermes",
-                "stars": 1605,
-                "topics": [
-                  "agent",
-                  "ai",
-                  "ai-agent",
-                  "ai-tools",
-                  "claude-code",
-                  "codex",
-                  "hermes-agent",
-                  "hermes-skill",
-                  "skills"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:07.742Z"
-            },
-            {
-              "node_type": "item",
               "title": "[beta] LinkedIn Skills",
               "description": "by Serge Bulaev - Ten portable skills for drafting, reviewing, and planning LinkedIn content. MIT licensed and compatible with agentskills.io hosts, including Hermes.",
               "children": [],
@@ -282,10 +251,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T03:57:27Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 1404,
+                "stars": 1667,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -307,6 +276,37 @@
                   "prompt-engineering",
                   "skill-md",
                   "social-media-automation"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:07.742Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[beta] OMH (oh-my-hermes by rlaope)",
+              "description": "by rlaope - Wrapper orchestration layer installed next to Hermes — one installs 80+ generated workflow skills plus a deterministic chat router that turns free-form Korean/English chat into the right prepared workflow, clarifying instead of guessing when confidence is low. Coding work is delegated to an explicitly selected executor (Codex, Claude Code, or the Hermes runtime) with a strict prepared-vs-observed evidence boundary. A 156-case bilingual routing corpus and ~1,500 unit tests gate every change in CI. Pure Python, zero runtime dependencies, never patches Hermes; docs in four languages. Distinct project from witt3rd's oh-my-hermes above. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+                "homepage": "https://rlaope.github.io/oh-my-hermes/",
+                "id": 1258301311,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-10T13:23:52Z",
+                "open_issues": 13,
+                "owner": "rlaope",
+                "repo": "oh-my-hermes",
+                "stars": 1634,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "ai-agent",
+                  "ai-tools",
+                  "claude-code",
+                  "codex",
+                  "hermes-agent",
+                  "hermes-skill",
+                  "skills"
                 ]
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -348,7 +348,7 @@
                 "open_issues": 0,
                 "owner": "42-evey",
                 "repo": "hermes-plugins",
-                "stars": 450,
+                "stars": 451,
                 "topics": [
                   "ai-agent",
                   "autonomous-agent",
@@ -375,7 +375,7 @@
                 "open_issues": 0,
                 "owner": "Cranot",
                 "repo": "super-hermes",
-                "stars": 425,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -396,7 +396,7 @@
                 "open_issues": 8,
                 "owner": "witt3rd",
                 "repo": "oh-my-hermes",
-                "stars": 320,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -408,16 +408,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов",
+                "description": "humanizer-ru: очеловечить русский AI-текст для Claude Code, Cursor, Codex и других AI-агентов. 64 признака нейросети, 21 жёсткий бан, сканер в комплекте. | Remove AI-generation markers from Russian text: open-source skill for Claude Code, Cursor, Codex and other agents.",
                 "homepage": "https://humanizer-ru.aifrontier.tech/",
                 "id": 1200286794,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T10:58:57Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-10T14:37:29Z",
+                "open_issues": 0,
                 "owner": "ilyautov",
                 "repo": "humanizer-ru",
-                "stars": 302,
+                "stars": 321,
                 "topics": [
                   "agent-skills",
                   "ai-detection",
@@ -501,7 +501,7 @@
                 "open_issues": 0,
                 "owner": "tlehman",
                 "repo": "litprog-skill",
-                "stars": 262,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -518,11 +518,11 @@
                 "id": 1181994538,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T23:17:07Z",
+                "last_commit": "2026-09-10T13:08:08Z",
                 "open_issues": 0,
                 "owner": "Lethe044",
                 "repo": "hermes-life-os",
-                "stars": 188,
+                "stars": 190,
                 "topics": [
                   "anthropic",
                   "autonomous-agent",
@@ -564,7 +564,7 @@
                 "open_issues": 0,
                 "owner": "Yonkoo11",
                 "repo": "hermes-dojo",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -613,7 +613,7 @@
                 "open_issues": 0,
                 "owner": "beiyuii",
                 "repo": "personal-api-skill",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "ai-agent",
                   "hermes-agent",
@@ -970,7 +970,7 @@
                 "license": "MIT",
                 "last_commit": "2026-07-21T16:57:26Z",
                 "open_issues": 0,
-                "owner": "johnsje183",
+                "owner": "bablobanov",
                 "repo": "hermes-telegram-checklist",
                 "stars": 7,
                 "topics": [
@@ -1209,36 +1209,6 @@
             },
             {
               "node_type": "item",
-              "title": "[beta] hermes-skills (liuyunnb666)",
-              "description": "by liuyunnb666 - Seven curated skills for Hermes: debugging, parallel dev, TDD, and UI workflows.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1262692647,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-08T08:44:38Z",
-                "open_issues": 0,
-                "owner": "liuyunnb666",
-                "repo": "hermes-skills",
-                "stars": 2,
-                "topics": [
-                  "ai-agent",
-                  "ai-skills",
-                  "claude-code",
-                  "debugging",
-                  "developer-tools",
-                  "hermes-agent",
-                  "tdd",
-                  "ui-ux"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:07.742Z"
-            },
-            {
-              "node_type": "item",
               "title": "[experimental] nika-agents",
               "description": "by SuperNovae Studio - Delegates repeatable work from Hermes to Nika workflows with static checks, cost caps, permits, and hash-chained execution traces. The integration skill is MIT; the Nika repository is AGPL-3.0.",
               "children": [],
@@ -1249,8 +1219,8 @@
                 "id": 1287733195,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-05T18:51:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-09T21:31:26Z",
+                "open_issues": 1,
                 "owner": "supernovae-st",
                 "repo": "nika-plugins",
                 "stars": 2,
@@ -1432,7 +1402,7 @@
                 "id": 1308718333,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T04:04:12Z",
+                "last_commit": "2026-09-10T04:02:30Z",
                 "open_issues": 0,
                 "owner": "dongwei6688",
                 "repo": "policy-search-china-skill",
@@ -1715,11 +1685,11 @@
                 "id": 1223170290,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T14:26:36Z",
-                "open_issues": 964,
+                "last_commit": "2026-09-10T14:32:36Z",
+                "open_issues": 974,
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 95082,
+                "stars": 95343,
                 "topics": [
                   "agent-skills",
                   "ai-design",
@@ -1761,7 +1731,7 @@
                 "open_issues": 45,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 32476,
+                "stars": 32553,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -1803,7 +1773,7 @@
                 "open_issues": 0,
                 "owner": "Agents365-ai",
                 "repo": "drawio-skill",
-                "stars": 9181,
+                "stars": 9206,
                 "topics": [
                   "agent-skills",
                   "architecture",
@@ -1844,7 +1814,7 @@
                 "open_issues": 8,
                 "owner": "wondelai",
                 "repo": "skills",
-                "stars": 2132,
+                "stars": 2136,
                 "topics": [
                   "agent-skills",
                   "ai-skills",
@@ -1882,7 +1852,7 @@
                 "open_issues": 4,
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 837,
+                "stars": 842,
                 "topics": [
                   "agent-skills",
                   "clawdbot",
@@ -2099,7 +2069,7 @@
                 "id": 1140927044,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:55:41Z",
+                "last_commit": "2026-09-09T20:54:01Z",
                 "open_issues": 3,
                 "owner": "black-forest-labs",
                 "repo": "skills",
@@ -2130,7 +2100,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T08:06:24Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "armelhbobdad",
                 "repo": "bmad-module-skill-forge",
                 "stars": 95,
@@ -2494,7 +2464,7 @@
                 "id": 1239996824,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T19:05:17Z",
+                "last_commit": "2026-09-10T13:54:28Z",
                 "open_issues": 0,
                 "owner": "babyblueviper1",
                 "repo": "invinoveritas",
@@ -2671,8 +2641,8 @@
                 "id": 1152532642,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T10:44:51Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-10T02:25:29Z",
+                "open_issues": 9,
                 "owner": "ucsandman",
                 "repo": "DashClaw",
                 "stars": 301,
@@ -2715,7 +2685,7 @@
                 "open_issues": 4,
                 "owner": "ogallotti",
                 "repo": "rtk-hermes",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -2830,7 +2800,7 @@
                 "open_issues": 0,
                 "owner": "raulvidis",
                 "repo": "hermes-cloudflare",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -2872,7 +2842,7 @@
                 "open_issues": 4,
                 "owner": "bielcarpi",
                 "repo": "hermes-live-voice",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "background-tasks",
                   "browser-sdk",
@@ -2954,7 +2924,7 @@
                 "open_issues": 1,
                 "owner": "willingning-coder",
                 "repo": "eagle-eye",
-                "stars": 36,
+                "stars": 38,
                 "topics": [
                   "ai-agent",
                   "bm25",
@@ -3032,11 +3002,11 @@
                 "id": 1238063840,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T12:07:05Z",
+                "last_commit": "2026-09-09T21:53:01Z",
                 "open_issues": 1,
                 "owner": "BlockRunAI",
                 "repo": "ClawRouter-Hermes",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "blockrun",
                   "clawrouter",
@@ -3108,7 +3078,7 @@
                 "open_issues": 0,
                 "owner": "FPSUnleashed",
                 "repo": "hermes-codex-skin",
-                "stars": 12,
+                "stars": 14,
                 "topics": [
                   "codex-skin",
                   "desktop-plugin",
@@ -3135,7 +3105,7 @@
                 "open_issues": 0,
                 "owner": "basilisk-labs",
                 "repo": "agentplane-hermes-plugin",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "agentplane",
                   "ai-agents",
@@ -3182,7 +3152,7 @@
                 "id": 1257752721,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:26:16Z",
+                "last_commit": "2026-09-10T00:03:57Z",
                 "open_issues": 0,
                 "owner": "scross01",
                 "repo": "hermes-custom-dangerous-patterns-plugin",
@@ -3225,6 +3195,40 @@
                 ]
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[beta] hermes-hud",
+              "description": "by Diabloluo - User-level plugin for the official hermes dashboard: local-first observability (health, estimated/actual/unbilled cost, sessions, cron, channel jitter, incidents). Read-only core DBs, 127.0.0.1, no outbound telemetry. Distinct from joeynyc/hermes-hud (a TUI). MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Local real-time observability dashboard for Hermes Agent: timeline, health, token/cost, sessions, skills, cron, channels, errors & incidents — local-first, read-only, zero outbound telemetry.",
+                "homepage": "https://github.com/Diabloluo/hermes-hud",
+                "id": 1343558496,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-06T07:50:09Z",
+                "open_issues": 0,
+                "owner": "Diabloluo",
+                "repo": "hermes-hud",
+                "stars": 5,
+                "topics": [
+                  "dashboard",
+                  "hermes-agent",
+                  "llm",
+                  "macos",
+                  "monitoring",
+                  "observability",
+                  "plugin",
+                  "privacy",
+                  "security",
+                  "sqlite",
+                  "telemetry",
+                  "token-tracking"
+                ]
+              },
+              "first_seen": "2026-09-02T14:41:41.017Z"
             },
             {
               "node_type": "item",
@@ -3295,40 +3299,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[beta] hermes-hud",
-              "description": "by Diabloluo - User-level plugin for the official hermes dashboard: local-first observability (health, estimated/actual/unbilled cost, sessions, cron, channel jitter, incidents). Read-only core DBs, 127.0.0.1, no outbound telemetry. Distinct from joeynyc/hermes-hud (a TUI). MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Local real-time observability dashboard for Hermes Agent: timeline, health, token/cost, sessions, skills, cron, channels, errors & incidents — local-first, read-only, zero outbound telemetry.",
-                "homepage": "https://github.com/Diabloluo/hermes-hud",
-                "id": 1343558496,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-06T07:50:09Z",
-                "open_issues": 0,
-                "owner": "Diabloluo",
-                "repo": "hermes-hud",
-                "stars": 4,
-                "topics": [
-                  "dashboard",
-                  "hermes-agent",
-                  "llm",
-                  "macos",
-                  "monitoring",
-                  "observability",
-                  "plugin",
-                  "privacy",
-                  "security",
-                  "sqlite",
-                  "telemetry",
-                  "token-tracking"
-                ]
-              },
-              "first_seen": "2026-09-02T14:41:41.017Z"
             },
             {
               "node_type": "item",
@@ -3593,6 +3563,32 @@
             },
             {
               "node_type": "item",
+              "title": "[beta] hermes-openai-codex-web-search",
+              "description": "by bart6114 - OpenAI Codex hosted search as a Hermes web-search backend using an existing ChatGPT/Codex sign-in. Uses that subscription; no separate search API key. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenAI Codex hosted web-search backend for Hermes Agent",
+                "homepage": null,
+                "id": 1352707866,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-06T18:49:37Z",
+                "open_issues": 0,
+                "owner": "bart6114",
+                "repo": "hermes-openai-codex-web-search",
+                "stars": 1,
+                "topics": [
+                  "hermes-agent",
+                  "openai-codex",
+                  "plugin",
+                  "web-search"
+                ]
+              },
+              "first_seen": "2026-09-02T14:41:41.017Z"
+            },
+            {
+              "node_type": "item",
               "title": "[beta] hermes-yandex-disk",
               "description": "by akinfold - Yandex Disk REST API v1 plugin: browse, read, download, write/upload, copy/move, share, and trash. Direct to ; action and path allowlists control what the agent may touch. High-privilege cloud storage — start read-only. MIT, on PyPI.",
               "children": [],
@@ -3724,32 +3720,6 @@
                   "plugin",
                   "privacy",
                   "self-hosted"
-                ]
-              },
-              "first_seen": "2026-09-02T14:41:41.017Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[beta] hermes-openai-codex-web-search",
-              "description": "by bart6114 - OpenAI Codex hosted search as a Hermes web-search backend using an existing ChatGPT/Codex sign-in. Uses that subscription; no separate search API key. MIT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OpenAI Codex hosted web-search backend for Hermes Agent",
-                "homepage": null,
-                "id": 1352707866,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-06T18:49:37Z",
-                "open_issues": 0,
-                "owner": "bart6114",
-                "repo": "hermes-openai-codex-web-search",
-                "stars": 0,
-                "topics": [
-                  "hermes-agent",
-                  "openai-codex",
-                  "plugin",
-                  "web-search"
                 ]
               },
               "first_seen": "2026-09-02T14:41:41.017Z"
@@ -4017,7 +3987,7 @@
                 "open_issues": 1,
                 "owner": "bergside",
                 "repo": "typeui",
-                "stars": 1897,
+                "stars": 1901,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -4035,6 +4005,38 @@
                   "skills",
                   "terminal",
                   "ui"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:07.742Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[beta] Hexis",
+              "description": "by Bevel Software - Git-backed platform for managing shared Agent Skills, tool definitions, and internal context. Resources stay in a Git repository and are made available to MCP clients through a remote OAuth connection with role-based access. Not a public skill marketplace — gives teams a reviewable place for their own SKILL.md folders, tools, and context. Apache-2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.",
+                "homepage": "https://demo.bevel.software/",
+                "id": 1317304497,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-10T14:30:57Z",
+                "open_issues": 3,
+                "owner": "Bevel-Software",
+                "repo": "Hexis",
+                "stars": 87,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude",
+                  "knowledge-base",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "open-source",
+                  "self-hosted",
+                  "skills"
                 ]
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -4067,38 +4069,6 @@
             },
             {
               "node_type": "item",
-              "title": "[beta] Hexis",
-              "description": "by Bevel Software - Git-backed platform for managing shared Agent Skills, tool definitions, and internal context. Resources stay in a Git repository and are made available to MCP clients through a remote OAuth connection with role-based access. Not a public skill marketplace — gives teams a reviewable place for their own SKILL.md folders, tools, and context. Apache-2.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.",
-                "homepage": "https://demo.bevel.software/",
-                "id": 1317304497,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-09T14:32:40Z",
-                "open_issues": 6,
-                "owner": "Bevel-Software",
-                "repo": "Hexis",
-                "stars": 85,
-                "topics": [
-                  "agent-skills",
-                  "ai-agents",
-                  "claude",
-                  "knowledge-base",
-                  "llm",
-                  "mcp",
-                  "mcp-server",
-                  "open-source",
-                  "self-hosted",
-                  "skills"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:07.742Z"
-            },
-            {
-              "node_type": "item",
               "title": "[beta] hermeshub",
               "description": "by amanning3390 - Browse, share, and install community skills for Hermes. Community hub for skill discovery, still early but growing.",
               "children": [],
@@ -4113,7 +4083,7 @@
                 "open_issues": 77,
                 "owner": "amanning3390",
                 "repo": "hermeshub",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:07.742Z"
@@ -4162,11 +4132,11 @@
             "id": 656099147,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:40:27Z",
-            "open_issues": 737,
+            "last_commit": "2026-09-10T14:21:18Z",
+            "open_issues": 742,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 64996,
+            "stars": 65067,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -4199,10 +4169,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T06:48:23Z",
-            "open_issues": 172,
+            "open_issues": 188,
             "owner": "garrytan",
             "repo": "gbrain",
-            "stars": 29759,
+            "stars": 29791,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -4219,11 +4189,11 @@
             "id": 764287615,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:45:40Z",
+            "last_commit": "2026-09-10T06:01:32Z",
             "open_issues": 91,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29546,
+            "stars": 29595,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -4253,11 +4223,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:40:50Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-10T14:24:25Z",
+            "open_issues": 80,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 23311,
+            "stars": 23389,
             "topics": [
               "agentic-ai",
               "agents",
@@ -4279,11 +4249,11 @@
             "id": 689777286,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T13:20:58Z",
+            "last_commit": "2026-09-10T14:08:06Z",
             "open_issues": 144,
             "owner": "plastic-labs",
             "repo": "honcho",
-            "stars": 7082,
+            "stars": 7100,
             "topics": [
               "agent-memory",
               "agentic-rag",
@@ -4311,11 +4281,11 @@
             "id": 1202070696,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:16:34Z",
+            "last_commit": "2026-09-10T10:45:13Z",
             "open_issues": 126,
             "owner": "mnemosyne-oss",
             "repo": "mnemosyne",
-            "stars": 3070,
+            "stars": 3081,
             "topics": [
               "agents",
               "ai",
@@ -4343,7 +4313,7 @@
             "open_issues": 15,
             "owner": "greyhaven-ai",
             "repo": "autocontext",
-            "stars": 1291,
+            "stars": 1292,
             "topics": [
               "agents",
               "ai",
@@ -4417,10 +4387,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T12:14:51Z",
-            "open_issues": 199,
+            "open_issues": 200,
             "owner": "plur-ai",
             "repo": "plur",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -4449,7 +4419,7 @@
             "open_issues": 9,
             "owner": "yoloshii",
             "repo": "ClawMem",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "ai-agent-memory",
               "ai-agents",
@@ -4482,7 +4452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The structured context layer for AI agents. Build self-learning specialised agents that are context aware.",
+            "description": "Deterministic memory layer for your agents",
             "homepage": "https://open-index.io/",
             "id": 1318866816,
             "language": "Python",
@@ -4559,11 +4529,11 @@
             "id": 1312924592,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T18:54:12Z",
+            "last_commit": "2026-09-10T08:25:15Z",
             "open_issues": 12,
             "owner": "JingxuanC",
             "repo": "causal-memory",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "agent-memory",
               "causal-inference",
@@ -4875,31 +4845,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-            "homepage": "https://hermes-studio.ai",
+            "description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+            "homepage": "https://ekkostudio.xyz",
             "id": 1207639951,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T13:45:40Z",
-            "open_issues": 366,
+            "last_commit": "2026-09-10T14:35:13Z",
+            "open_issues": 374,
             "owner": "EKKOLearnAI",
             "repo": "hermes-studio",
-            "stars": 10973,
+            "stars": 11006,
             "topics": [
               "agent",
               "ai-agent",
               "chat-ui",
+              "coding-agents",
               "dashboard",
+              "ekko-studio",
               "hermes",
               "hermes-agent",
               "hermes-web-ui",
               "llm",
+              "multi-agent",
               "multi-model",
               "multi-platform",
               "self-hosted",
               "typescript",
               "vue3",
-              "web-ui"
+              "web-ui",
+              "workflow-automation"
             ]
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -4916,11 +4890,11 @@
             "id": 1142274728,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T05:53:55Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-09T17:28:42Z",
+            "open_issues": 74,
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 10809,
+            "stars": 10881,
             "topics": [
               "ai-agent",
               "anti-bot",
@@ -4957,7 +4931,7 @@
             "open_issues": 151,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6587,
+            "stars": 6597,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -4983,10 +4957,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-07T00:27:51Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "builderz-labs",
             "repo": "mission-control",
-            "stars": 6195,
+            "stars": 6200,
             "topics": [
               "agent-observability",
               "agent-operations",
@@ -5023,7 +4997,7 @@
             "open_issues": 39,
             "owner": "AMAP-ML",
             "repo": "SkillClaw",
-            "stars": 2584,
+            "stars": 2588,
             "topics": [
               "agent",
               "agentic-ai",
@@ -5058,7 +5032,7 @@
             "open_issues": 18,
             "owner": "dodo-reach",
             "repo": "hermes-desktop",
-            "stars": 2019,
+            "stars": 2020,
             "topics": [
               "agent-tools",
               "apple-silicon",
@@ -5091,7 +5065,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -5133,7 +5107,7 @@
             "open_issues": 11,
             "owner": "fkiene",
             "repo": "llmtrim",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "agentic-coding",
               "ai",
@@ -5172,7 +5146,7 @@
             "open_issues": 1,
             "owner": "pyrate-llama",
             "repo": "hermes-ui",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "ai",
               "ai-assistant",
@@ -5209,7 +5183,7 @@
             "open_issues": 2,
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 137,
+            "stars": 142,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -5388,8 +5362,8 @@
             "id": 1202855489,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:31:25Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-09T18:50:31Z",
+            "open_issues": 25,
             "owner": "drakulavich",
             "repo": "kesha-voice-kit",
             "stars": 73,
@@ -5434,28 +5408,7 @@
             "open_issues": 2,
             "owner": "42-evey",
             "repo": "evey-setup",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:07.742Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[experimental] hermes-neurovision",
-          "description": "by Tranquil-Flow - Terminal neurovisualizer with 42 animated themes. Decorative terminal overlays for agent activity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Terminal neurovisualizer for Hermes Agent. 100+ animated themes that react to what your agent is doing. Watch your AI think.",
-            "homepage": null,
-            "id": 1181467826,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-03-16T06:05:35Z",
-            "open_issues": 2,
-            "owner": "Tranquil-Flow",
-            "repo": "hermes-neurovision",
-            "stars": 63,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -5472,11 +5425,11 @@
             "id": 1168980518,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T22:15:57Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-10T05:27:12Z",
+            "open_issues": 6,
             "owner": "hermes-labs-ai",
             "repo": "lintlang",
-            "stars": 63,
+            "stars": 66,
             "topics": [
               "agent-config",
               "agent-linter",
@@ -5504,6 +5457,27 @@
         },
         {
           "node_type": "item",
+          "title": "[experimental] hermes-neurovision",
+          "description": "by Tranquil-Flow - Terminal neurovisualizer with 42 animated themes. Decorative terminal overlays for agent activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal neurovisualizer for Hermes Agent. 100+ animated themes that react to what your agent is doing. Watch your AI think.",
+            "homepage": null,
+            "id": 1181467826,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-03-16T06:05:35Z",
+            "open_issues": 2,
+            "owner": "Tranquil-Flow",
+            "repo": "hermes-neurovision",
+            "stars": 63,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:15:07.742Z"
+        },
+        {
+          "node_type": "item",
           "title": "[beta] nix-hermes-agent",
           "description": "by 0xrsydn - Nix package and NixOS module for Hermes. Fully reproducible deployments via Nix flakes.",
           "children": [],
@@ -5514,8 +5488,8 @@
             "id": 1182767219,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-09-09T08:35:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-10T08:37:09Z",
+            "open_issues": 2,
             "owner": "0xrsydn",
             "repo": "nix-hermes-agent",
             "stars": 43,
@@ -5806,8 +5780,8 @@
                 "id": 1186006472,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T07:18:14Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-10T03:04:37Z",
+                "open_issues": 10,
                 "owner": "solomon2773",
                 "repo": "nora",
                 "stars": 52,
@@ -5977,11 +5951,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T00:09:59Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-10T11:07:23Z",
+            "open_issues": 31,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21497,
+            "stars": 21517,
             "topics": [
               "agents",
               "agi",
@@ -6023,7 +5997,7 @@
             "open_issues": 0,
             "owner": "jau123",
             "repo": "MeiGen-AI-Design-MCP",
-            "stars": 1746,
+            "stars": 1747,
             "topics": [
               "ai-image-generation",
               "claude",
@@ -6052,10 +6026,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T10:27:55Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "raulvidis",
             "repo": "hermes-android",
-            "stars": 498,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -6225,7 +6199,7 @@
             "open_issues": 0,
             "owner": "CorsenAI",
             "repo": "hermes-connector",
-            "stars": 17,
+            "stars": 19,
             "topics": [
               "ai-agent",
               "ai-browser-agent",
@@ -6287,6 +6261,27 @@
         },
         {
           "node_type": "item",
+          "title": "[production] Not Human Search",
+          "description": "by unitedideas - MCP server for discovering other MCP servers. Indexes 8,600+ agent-friendly sites with agentic scoring, category filters, and live JSON-RPC verification. Wire it into Hermes via MCP to let the agent find and evaluate new tools to integrate on its own. Live at nothumansearch.ai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Remote MCP server for Not Human Search — search the agentic web. Install: claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp",
+            "homepage": null,
+            "id": 1211102327,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-15T04:31:35Z",
+            "open_issues": 0,
+            "owner": "unitedideas",
+            "repo": "nothumansearch-mcp",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:15:07.742Z"
+        },
+        {
+          "node_type": "item",
           "title": "[beta] Agent37 Gateway",
           "description": "by Agent37 - Responses-style HTTP/SSE API in front of a local Hermes worker (JSONL over stdio) or an OpenClaw backend — one stable request shape and reconnectable stream replay whatever agent is behind it, plus an OpenAI-compatible . Ships a Bruno collection for poking it without writing code. MIT.",
           "children": [],
@@ -6302,27 +6297,6 @@
             "owner": "agent37-platform",
             "repo": "gateway",
             "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:15:07.742Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[production] Not Human Search",
-          "description": "by unitedideas - MCP server for discovering other MCP servers. Indexes 8,600+ agent-friendly sites with agentic scoring, category filters, and live JSON-RPC verification. Wire it into Hermes via MCP to let the agent find and evaluate new tools to integrate on its own. Live at nothumansearch.ai.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Remote MCP server for Not Human Search — search the agentic web. Install: claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp",
-            "homepage": null,
-            "id": 1211102327,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-15T04:31:35Z",
-            "open_issues": 0,
-            "owner": "unitedideas",
-            "repo": "nothumansearch-mcp",
-            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -6671,11 +6645,11 @@
             "id": 1224734286,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T11:34:28Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-10T11:31:11Z",
+            "open_issues": 41,
             "owner": "Ikalus1988",
             "repo": "MisakaNet",
-            "stars": 474,
+            "stars": 487,
             "topics": [
               "agents",
               "ai-agents",
@@ -6708,7 +6682,7 @@
             "open_issues": 0,
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -6859,7 +6833,7 @@
             "open_issues": 25,
             "owner": "internet-court",
             "repo": "internet-court-skill",
-            "stars": 5494,
+            "stars": 5528,
             "topics": [
               "a2a",
               "adjudication",
@@ -6927,7 +6901,7 @@
             "id": 1119614474,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:00:03Z",
+            "last_commit": "2026-09-10T13:00:03Z",
             "open_issues": 13,
             "owner": "longsizhuo",
             "repo": "openInvest",
@@ -7108,7 +7082,7 @@
             "open_issues": 0,
             "owner": "Lethe044",
             "repo": "hermes-legal",
-            "stars": 22,
+            "stars": 24,
             "topics": [
               "atropos",
               "autonomous-agents",
@@ -7519,11 +7493,11 @@
             "id": 1086419061,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:40:50Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-10T14:24:25Z",
+            "open_issues": 80,
             "owner": "vectorize-io",
             "repo": "hindsight",
-            "stars": 23311,
+            "stars": 23389,
             "topics": [
               "agentic-ai",
               "agents",
@@ -7549,7 +7523,7 @@
             "open_issues": 122,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5283,
+            "stars": 5291,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -7597,7 +7571,7 @@
             "open_issues": 151,
             "owner": "outsourc-e",
             "repo": "hermes-workspace",
-            "stars": 6587,
+            "stars": 6597,
             "topics": [
               "agent-ui",
               "ai-workspace",
@@ -7626,7 +7600,7 @@
             "open_issues": 122,
             "owner": "NousResearch",
             "repo": "hermes-agent-self-evolution",
-            "stars": 5283,
+            "stars": 5291,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -7647,7 +7621,7 @@
             "open_issues": 148,
             "owner": "NousResearch",
             "repo": "hermes-paperclip-adapter",
-            "stars": 1869,
+            "stars": 1871,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -7689,7 +7663,7 @@
             "open_issues": 0,
             "owner": "1ilkhamov",
             "repo": "opencode-hermes-multiagent",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:07.742Z"
@@ -7720,7 +7694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:47:53.983Z",
+    "last_updated": "2026-09-10T14:38:09.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.",
@@ -7729,10 +7703,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-02T04:00:17Z",
-      "open_issues": 57,
+      "open_issues": 61,
       "owner": "0xNyk",
       "repo": "awesome-hermes-agent",
-      "stars": 5603,
+      "stars": 5613,
       "topics": [
         "agent-skills",
         "ai-agents",
